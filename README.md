@@ -1,10 +1,12 @@
 # testgit
 
 
-## mindre overskrift 
+## en lidt mindre overskrift
 
-+ liste 
-+ liste 2
++ liste
 + liste 3
 
 tekst tekst tekst
+
+
+mere tekst
